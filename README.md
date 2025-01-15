@@ -25,9 +25,8 @@ HTML landing page template deployed by Baklib CMS.
   │   └── _header.liquid
   ├── statics
   │   ├── index.liquid
-  │   ├── reset-password.liquid
-  │   ├── schedule-call.liquid
-  │   └── signin.liquid
+  │   ├── signin.liquid
+  │   └── signup.liquid
   ├── tailwind.config.js
   ├── templates
   │   ├── index.liquid
@@ -35,7 +34,6 @@ HTML landing page template deployed by Baklib CMS.
   │   ├── search.liquid
   │   └── tag.liquid
   ├── yarn-error.log
-  └── yarn.lock
 ```
 
 
